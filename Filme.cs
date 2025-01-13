@@ -1,16 +1,23 @@
 public class Filme
 {
-    public string nome = string.Empty;  // Inicializa com uma string vazia
-    public string artista = string.Empty;
-    public int duracao = 0;  // Inicializa com 0 (já é o valor padrão)
-    public bool disponivel = false;  // Inicializa com false
+    public string Nome { get; set; }  
+    public string Artista { get; set; }
+    public int Duracao { get; set; }  
+    public bool Disponivel { get; set; } 
+    public string DescricaoResumida 
+    {
+         get
+         {
+            return $"O filme {Nome} pertence á: {Artista}";
+         }
+    }
 
     public void ExibirFichaTecnica() //método
     {
-        System.Console.WriteLine($"Nome: {nome}");
-        System.Console.WriteLine($"Artista: {artista}");
-        System.Console.WriteLine($"Duração: {duracao}");
-        if(disponivel)
+        System.Console.WriteLine($"Nome: {Nome}");
+        System.Console.WriteLine($"Artista: {Artista}");
+        System.Console.WriteLine($"Duração: {Duracao}");
+        if(Disponivel)
         {
             System.Console.WriteLine("Disponível no plano");
         }else

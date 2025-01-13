@@ -12,3 +12,4 @@ C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\refint\C-Filme.dll
 C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\C-Filme.pdb
 C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\C-Filme.genruntimeconfig.cache
 C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\ref\C-Filme.dll
+C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\C-Filme.sourcelink.json

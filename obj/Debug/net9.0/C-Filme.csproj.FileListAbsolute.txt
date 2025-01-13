@@ -1,0 +1,14 @@
+C:\Users\luanm\Desktop\C-Filme\bin\Debug\net9.0\C-Filme.exe
+C:\Users\luanm\Desktop\C-Filme\bin\Debug\net9.0\C-Filme.deps.json
+C:\Users\luanm\Desktop\C-Filme\bin\Debug\net9.0\C-Filme.runtimeconfig.json
+C:\Users\luanm\Desktop\C-Filme\bin\Debug\net9.0\C-Filme.dll
+C:\Users\luanm\Desktop\C-Filme\bin\Debug\net9.0\C-Filme.pdb
+C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\C-Filme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\C-Filme.AssemblyInfoInputs.cache
+C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\C-Filme.AssemblyInfo.cs
+C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\C-Filme.csproj.CoreCompileInputs.cache
+C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\C-Filme.dll
+C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\refint\C-Filme.dll
+C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\C-Filme.pdb
+C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\C-Filme.genruntimeconfig.cache
+C:\Users\luanm\Desktop\C-Filme\obj\Debug\net9.0\ref\C-Filme.dll
